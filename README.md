@@ -27,7 +27,7 @@
 
 
 ## Projects
-SQL: docs/Group35_DBMS_Final_Assessment.pdf
+[SQL](docs/Group35_DBMS_Final_Assessment.pdf)
 
 
 
