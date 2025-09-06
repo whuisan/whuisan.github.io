@@ -1,25 +1,33 @@
-# Hi there, I'm Hui San 👋
+# Second Year Data Analytics Student
 
-🎓 **Bachelor of Information Systems (Data Analytics)** student at Sunway University  
-📊 Aspiring **Data Analyst** | Passionate about **Analytics, Visualization & Digital Transformation**  
-🌱 Currently learning: SQL, Power BI, Machine Learning  
+#### Technical Skills: Power BI, SQL, Python, Microsoft Excel
+
+## 🎓 Education
+
+### Sunway University, Selangor  
+**Bachelor of Information Systems (Data Analytics)**  
+📅 September 2023 – Present _(Expected Graduation: September 2026)_  
+📊 CGPA: **3.90**  
+🏅 Dean’s List 2024–2025 | Jeffrey Cheah ACE Scholarship Recipient  
 
 ---
 
-## 🛠 Skills
-- **Programming & Tools:** Python, R, SQL, Power BI, Tableau  
-- **Data Analytics:** Data Cleaning, Visualization, Regression, ANOVA  
-- **Other Tools:** Git, Excel, Figma  
+### Sunway College, Selangor  
+**Foundation in Arts**  
+📅 July 2022 – July 2023  
+📊 CGPA: **3.94**  
+🏅 Jeffrey Cheah Entrance Scholarship Recipient  
 
 ---
 
-## 📂 Projects
-### 🔹 [Sleep & Lifestyle Analysis]
-Analyzed the relationship between sleep, stress, and physical activity using regression and ANOVA.  
-*Tools: Python, Pandas, Matplotlib*
+### SMK Damansara Jaya, Selangor  
+**Sijil Pelajaran Malaysia (SPM), Science Stream**  
+📅 January 2017 – February 2022  
+📊 Results: **10As**
 
 
+## Projects
 
-## 📫 Connect with Me
+
 
 
