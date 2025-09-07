@@ -43,3 +43,11 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 
 **Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.  
 
+**Social and Web Analytics – Predictive Modeling for Child Mortality**
+📄 [View Full Report]
+
+This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
+
+We **built and compared multiple machine learning algorithms**, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Naive Bayes, and XGBoost, to estimate child mortality risk and support early interventions. The entire analysis was implemented in Python using Google Colab, leveraging libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data processing, modeling, and visualization.
+
+**Skills & Tools**: Python, Google Colab, Pandas, NumPy, Scikit-learn, Data Cleaning, Machine Learning, Data Visualization.
