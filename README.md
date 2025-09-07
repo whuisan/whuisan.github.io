@@ -34,7 +34,7 @@ Skills gained: Database design, SQL (joins, subqueries, aggregation, set operati
 🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)  
 📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)  
 📄 [System Design Specification (SDS)](docs/System_Design_Specification_(SDS).pdf)  
-📄 [System Test Document (STD)](docs/ISAD_STD.pdf)  
+📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)  
 📄 [Final Proposal](docs/ISAD_Final_Proposal.pdf)  
 
 Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the full **System Development Life Cycle (SDLC)**. The project involved conducting **surveys and referencing academic/industry sources** to gather user requirements, followed by system design, prototype development, and testing.  
