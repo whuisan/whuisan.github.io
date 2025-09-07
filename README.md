@@ -10,14 +10,13 @@ September 2023 – Present _(Expected Graduation: September 2026)_
 CGPA: **3.90**  
 🏅 Dean’s List 2024–2025 | Jeffrey Cheah ACE Scholarship Recipient  
 
----
-
 ### Sunway College, Selangor  
 **Foundation in Arts**  
 July 2022 – July 2023  
 CGPA: **3.94**  
 🏅 Jeffrey Cheah Entrance Scholarship Recipient  
 
+---
 
 ## Projects
 **SQL Project - DreamHaven Online Hotel Booking System**
