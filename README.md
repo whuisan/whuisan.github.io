@@ -20,7 +20,7 @@ CGPA: **3.94**
 
 
 ## Projects
-SQL Project - DreamHaven Online Hotel Booking System 
+**SQL Project - DreamHaven Online Hotel Booking System**
 
 📄 [View Full Report](docs/Group35_DBMS_Final_Assessment.pdf)  
 
