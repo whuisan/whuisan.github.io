@@ -47,7 +47,7 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 **Social and Web Analytics – Predictive Modeling for Child Mortality**
 
 📄 [View Full Report](docs/SWA_Final_Report.pdf)
-📄 [Coding in Python]
+📄 [Coding in Python](docs/SWA_Code(Google_Colab).py)
 
 This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
 
