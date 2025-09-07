@@ -30,7 +30,7 @@ CGPA: 3.94
 **Skills gained:** Database design, SQL (joins, subqueries, aggregation, set operations, date functions), business data analysis, data integrity & optimization.
 
 
-**Social and Web Analytics – Predictive Modeling for Child Mortality**
+**Predictive Modeling of Child Mortality Using Machine Learning in Python**
 
 📄 [View Full Report](docs/SWA_Final_Report.pdf)
 📄 [Coding in Python](docs/SWA_Code(Google_Colab).py)
