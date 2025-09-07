@@ -23,7 +23,7 @@ CGPA: 3.94
 **SQL Project - DreamHaven Online Hotel Booking System**
 
 📄 [View Full Report](docs/Group35_DBMS_Final_Assessment.pdf)
-📄 [Database Script](docs/DBscript.sql)
+📄 [Database Script (SQL)](docs/DBscript.sql)
 
 **Designed and implemented a relational database** for an online hotel booking platform using Oracle SQL. The project covered ERD modeling, relational schema design (Primary Key, Foreign Key, constraints, indexes), database implementation, and advanced SQL queries to answer business problems such as customer satisfaction, property performance, and high-value customer identification.
 
@@ -46,7 +46,8 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 
 **Social and Web Analytics – Predictive Modeling for Child Mortality**
 
-📄 [View Full Report]
+📄 [View Full Report](docs/SWA_Final_Report.pdf)
+📄 [Coding in Python]
 
 This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
 
