@@ -37,9 +37,9 @@ CGPA: 3.94
 📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)  
 📄 [Final Report](docs/Final_Report.pdf)  
 
-Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the full **System Development Life Cycle (SDLC)**. The project involved conducting **surveys and referencing academic/industry sources** to gather user requirements, followed by system design, prototype development, and testing.  
+Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the System Development Life Cycle (SDLC). The project involved conducting surveys and referencing academic/industry sources to gather user requirements, followed by system design, prototype development, and testing.  
 
-Key deliverables included documentation (**SRD, SDS, STD**) and visual models such as **use case diagrams, context diagrams, and data flow diagrams**. A functional prototype was developed using **Figma**, while system reliability and usability were validated through **pilot runs and user testing**. The project concluded with a **formal pitch presentation** to peers and industry representatives.  
+Key deliverables included documentation (SRD, SDS, STD) and visual models such as use case diagrams, context diagrams, and data flow diagrams. A functional prototype was developed using **Figma**, while system reliability and usability were validated through pilot runs and user testing. The project concluded with a **formal pitch presentation** to peers and industry representatives.  
 
 **Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.  
 
