@@ -31,7 +31,7 @@ Skills gained: Database design, SQL (joins, subqueries, aggregation, set operati
 
 **Information System Analysis & Design – Sunway iZone Enrolment System**
 
-🔗 [View Figma Prototype](https://www.figma.com/your-prototype-link)  
+🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)  
 📄 [System Requirement Document (SRD)](docs/ISAD_SRD.pdf)  
 📄 [System Design Specification (SDS)](docs/ISAD_SDS.pdf)  
 📄 [System Test Document (STD)](docs/ISAD_STD.pdf)  
