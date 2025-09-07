@@ -27,7 +27,13 @@
 
 
 ## Projects
-[SQL](docs/Group35_DBMS_Final_Assessment.pdf)
+SQL Project - DreamHaven Online Hotel Booking System 
+
+📄 [View Full Report](docs/Group35_DBMS_Final_Assessment.pdf)  
+
+Designed and implemented a relational database for an online hotel booking platform using Oracle SQL. The project covered ERD modeling, relational schema design (Primary Key, Foreign Key, constraints, indexes), database implementation, and advanced SQL queries to answer business problems such as customer satisfaction, property performance, and high-value customer identification.
+
+Skills gained: Database design, SQL (joins, subqueries, aggregation, set operations, date functions), business data analysis, data integrity & optimization.
 
 
 
