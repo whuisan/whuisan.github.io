@@ -36,7 +36,7 @@ CGPA: 3.94
 📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)  
 📄 [System Design Specification (SDS)](docs/System_Design_Specification_(SDS).pdf)  
 📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)  
-📄 [Final Report](docs/Final_Report.pdf)  
+📄 [Final Report](docs/BIS_Final_Report.pdf)  
 
 Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the System Development Life Cycle (SDLC). The project involved conducting surveys and referencing academic/industry sources to gather user requirements, followed by system design, prototype development, and testing.  
 
