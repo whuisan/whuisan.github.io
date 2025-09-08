@@ -1,6 +1,6 @@
 # Second Year Data Analytics Student
 
-#### Technical Skills: Power BI, SQL, Python, Microsoft Excel
+#### Technical Skills: Microsoft Excel, SQL, Power BI, Tabelau, Python
 
 ## Education
 
