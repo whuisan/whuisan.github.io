@@ -42,6 +42,15 @@ This project applied predictive analytics to address child mortality among teena
 **Skills & Tools**: Python, Google Colab, Pandas, NumPy, Scikit-learn, Data Cleaning, Machine Learning, Data Visualization.
 
 
+**Statistical Analysis of Sleep Health and Lifestyle Using SAS Enterprise Guide**
+
+📄 [View Full Report](docs/Group_Assignment_Statistics.pdf)
+
+Conducted statistical analysis on a Kaggle dataset of 374 adults using SAS Enterprise Guide to examine the impact of lifestyle and health factors on sleep. The project applied descriptive statistics, hypothesis testing (one-sample, two-sample, ANOVA), and multiple linear regression to develop a predictive model for sleep duration.
+
+**Skills gained:** SAS programming, data cleaning, statistical inference, regression modeling, and interpretation of health-related insights.
+
+
 **Information System Analysis & Design – Sunway iZone Enrolment System**
 
 🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)  
@@ -57,10 +66,5 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 **Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.
 
 
-**Statistical Analysis of Sleep Health and Lifestyle Using SAS Enterprise Guide**
-📄 [View Full Report](docs/Group_Assignment_Statistics.pdf)
 
-Conducted statistical analysis on a Kaggle dataset of 374 adults using SAS Enterprise Guide to examine the impact of lifestyle and health factors on sleep. The project applied descriptive statistics, hypothesis testing (one-sample, two-sample, ANOVA), and multiple linear regression to develop a predictive model for sleep duration.
-
-**Skills gained:**SAS programming, data cleaning, statistical inference, regression modeling, and interpretation of health-related insights.
 
