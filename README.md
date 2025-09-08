@@ -36,9 +36,7 @@ CGPA: 3.94
 📄 [View Full Report](docs/SWA_Final_Report.pdf)  
 📄 [Coding in Python](docs/SWA_Code(Google_Colab).py)
 
-> This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
-
-> **Built and compared multiple machine learning algorithms**, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Naive Bayes, and XGBoost, to estimate child mortality risk and support early interventions. The entire analysis was implemented in Python using Google Colab, leveraging libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data processing, modeling, and visualization.
+> This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya using a dataset from Harvard Dataverse. **Built and compared multiple machine learning algorithms** (Logistic Regression, Decision Tree, Random Forest, SVM, Naive Bayes and XGBoost) to estimate child mortality risk and support early interventions. The analysis was implemented in Python using Google Colab, leveraging libraries such as Pandas, NumPy, Scikit-learn and Matplotlib for data processing, modeling, and visualization.
 
 > **Skills & Tools**: Python, Google Colab, Pandas, NumPy, Scikit-learn, Data Cleaning, Machine Learning, Data Visualization.
 
@@ -60,9 +58,7 @@ CGPA: 3.94
 📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)    
 📄 [Final Report](docs/BIS_Final_Report.pdf)    
 
-> Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the System Development Life Cycle (SDLC). The project involved conducting surveys and referencing academic/industry sources to gather user requirements, followed by system design, prototype development, and testing.  
-
-> Key deliverables included documentation (SRD, SDS, STD) and visual models such as use case diagrams, context diagrams, and data flow diagrams. A functional prototype was developed using **Figma**, while system reliability and usability were validated through pilot runs and user testing. The project concluded with a **formal pitch presentation** to peers and industry representatives.  
+> Enhanced the *Sunway iZone Enrolment System*, a platform used by students for subject enrolment, by applying the System Development Life Cycle (SDLC). The project involved conducting surveys and referencing academic/industry sources to gather user requirements, followed by system design, prototype development, and testing.  A functional prototype was developed using **Figma**, while system reliability and usability were validated through pilot runs and user testing. The project concluded with a **formal pitch presentation** to peers and industry representatives.  
 
 > **Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.
 
