@@ -37,7 +37,7 @@ CGPA: 3.94
 
 This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
 
-We **built and compared multiple machine learning algorithms**, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Naive Bayes, and XGBoost, to estimate child mortality risk and support early interventions. The entire analysis was implemented in Python using Google Colab, leveraging libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data processing, modeling, and visualization.
+**Built and compared multiple machine learning algorithms**, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), Naive Bayes, and XGBoost, to estimate child mortality risk and support early interventions. The entire analysis was implemented in Python using Google Colab, leveraging libraries such as Pandas, NumPy, Scikit-learn, and Matplotlib for data processing, modeling, and visualization.
 
 **Skills & Tools**: Python, Google Colab, Pandas, NumPy, Scikit-learn, Data Cleaning, Machine Learning, Data Visualization.
 
@@ -58,7 +58,7 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 
 
 **Statistical Analysis of Sleep Health and Lifestyle Using SAS Enterprise Guide**
-📄 [View Full Report]
+📄 [View Full Report](docs/Group_Assignment_Statistics.pdf)
 
 Conducted statistical analysis on a Kaggle dataset of 374 adults using SAS Enterprise Guide to examine the impact of lifestyle and health factors on sleep. The project applied descriptive statistics, hypothesis testing (one-sample, two-sample, ANOVA), and multiple linear regression to develop a predictive model for sleep duration.
 
