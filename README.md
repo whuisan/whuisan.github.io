@@ -22,7 +22,7 @@ CGPA: 3.94
 ## Projects
 **SQL Project - DreamHaven Online Hotel Booking System**
 
-📄 [View Full Report](docs/Group35_DBMS_Final_Assessment.pdf)
+📄 [View Full Report](docs/Group35_DBMS_Final_Assessment.pdf)  
 📄 [Database Script (SQL)](docs/DBscript.sql)
 
 **Designed and implemented a relational database** for an online hotel booking platform using Oracle SQL. The project covered ERD modeling, relational schema design (Primary Key, Foreign Key, constraints, indexes), database implementation, and advanced SQL queries to answer business problems such as customer satisfaction, property performance, and high-value customer identification.
@@ -30,9 +30,10 @@ CGPA: 3.94
 **Skills gained:** Database design, SQL (joins, subqueries, aggregation, set operations, date functions), business data analysis, data integrity & optimization.
 
 
+
 **Predictive Modeling of Child Mortality Using Machine Learning in Python**
 
-📄 [View Full Report](docs/SWA_Final_Report.pdf)
+📄 [View Full Report](docs/SWA_Final_Report.pdf)  
 📄 [Coding in Python](docs/SWA_Code(Google_Colab).py)
 
 This project applied predictive analytics to address child mortality among teenage mothers in Western Kenya. The dataset, sourced from Harvard Dataverse, contained socio-economic and health-related variables and required extensive data cleaning and preprocessing to ensure quality and consistency.
@@ -53,11 +54,11 @@ Conducted statistical analysis on a Kaggle dataset of 374 adults using SAS Enter
 
 **Information System Analysis & Design – Sunway iZone Enrolment System**
 
-🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)  
-📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)  
-📄 [System Design Specification (SDS)](docs/System_Design_Specification_(SDS).pdf)  
-📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)  
-📄 [Final Report](docs/BIS_Final_Report.pdf)  
+🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)    
+📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)    
+📄 [System Design Specification (SDS)](docs/System_Design_Specification_(SDS).pdf)    
+📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)    
+📄 [Final Report](docs/BIS_Final_Report.pdf)    
 
 Enhanced the *Sunway iZone Enrolment System*, a platform used by students for course enrolment and academic services, by applying the System Development Life Cycle (SDLC). The project involved conducting surveys and referencing academic/industry sources to gather user requirements, followed by system design, prototype development, and testing.  
 
@@ -68,9 +69,9 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 
 **ZUS Coffee: Strategic Analysis and Digital Solutions**
 
-🔗 [View Figma Prototype](https://www.figma.com/proto/CNXTNvdDey5dBqM3OBXpIA/ZUS-Coffee-Mobile-App?node-id=17-4340&t=0dxBPdVAMH6PXqhk-1)
-📄 [Analysis & Strategy Report](docs/MAN3154_Mid-Term_Assignment.pdf) Performed PESTLE analysis, strategic group mapping, proposed and ranked five strategies, and assessed sustainability using SusAF’s 5 Dimensions.
-📄 [Prototype & Testing Report](docs/MAN3154_Final_Assignment.pdf) Developed three selected solutions, built Figma prototypes, and refined them through alpha and beta testing.
+🔗 [View Figma Prototype](https://www.figma.com/proto/CNXTNvdDey5dBqM3OBXpIA/ZUS-Coffee-Mobile-App?node-id=17-4340&t=0dxBPdVAMH6PXqhk-1)  
+📄 [Analysis & Strategy Report](docs/MAN3154_Mid-Term_Assignment.pdf)
+📄 [Prototype & Testing Report](docs/MAN3154_Final_Assignment.pdf)
 
 Analyzed ZUS Coffee and its competitors through PESTLE analysis and a strategic group map. Proposed and ranked five business strategies using Weighted Criteria Analysis, then developed three key solutions: Permanent In-App Minigames, ZUS GroupOrder+, and an AI-Powered Personalised Drink Recommender. Prototypes were built in Figma, tested through alpha and beta stages, and refined based on user feedback, with sustainability assessed using SusAF’s 5 Dimensions.
 
