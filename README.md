@@ -66,5 +66,12 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 **Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.
 
 
+**ZUS Coffee: Strategic Analysis and Digital Solutions**
+🔗 [View Figma Prototype]
+📄 [Analysis & Strategy Report] Performed PESTLE analysis, strategic group mapping, proposed and ranked five strategies, and assessed sustainability using SusAF’s 5 Dimensions.
+📄 [Prototype & Testing Report] Developed three selected solutions, built Figma prototypes, and refined them through alpha and beta testing.
 
+Analyzed ZUS Coffee and its competitors through PESTLE analysis and a strategic group map. Proposed and ranked five business strategies using Weighted Criteria Analysis, then developed three key solutions: Permanent In-App Minigames, ZUS GroupOrder+, and an AI-Powered Personalised Drink Recommender. Prototypes were built in Figma, tested through alpha and beta stages, and refined based on user feedback, with sustainability assessed using SusAF’s 5 Dimensions.
+
+**Skills gained:** Strategic industry analysis, business strategy evaluation, digital prototyping (Figma), user testing, and application of sustainability frameworks.
 
