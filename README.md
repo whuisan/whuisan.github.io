@@ -54,5 +54,13 @@ Enhanced the *Sunway iZone Enrolment System*, a platform used by students for co
 
 Key deliverables included documentation (SRD, SDS, STD) and visual models such as use case diagrams, context diagrams, and data flow diagrams. A functional prototype was developed using **Figma**, while system reliability and usability were validated through pilot runs and user testing. The project concluded with a **formal pitch presentation** to peers and industry representatives.  
 
-**Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.  
+**Skills gained:** System analysis & design (SDLC), requirements engineering, UML modeling, user research & referencing, usability testing, prototyping with Figma, teamwork & professional presentation.
+
+
+**Statistical Analysis of Sleep Health and Lifestyle Using SAS Enterprise Guide**
+📄 [View Full Report]
+
+Conducted statistical analysis on a Kaggle dataset of 374 adults using SAS Enterprise Guide to examine the impact of lifestyle and health factors on sleep. The project applied descriptive statistics, hypothesis testing (one-sample, two-sample, ANOVA), and multiple linear regression to develop a predictive model for sleep duration.
+
+**Skills gained:**SAS programming, data cleaning, statistical inference, regression modeling, and interpretation of health-related insights.
 
