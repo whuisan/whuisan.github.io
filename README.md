@@ -70,7 +70,7 @@ Key deliverables included documentation (SRD, SDS, STD) and visual models such a
 
 🔗 [View Figma Prototype](https://www.figma.com/proto/CNXTNvdDey5dBqM3OBXpIA/ZUS-Coffee-Mobile-App?node-id=17-4340&t=0dxBPdVAMH6PXqhk-1)
 📄 [Analysis & Strategy Report](docs/MAN3154_Mid-Term_Assignment.pdf) Performed PESTLE analysis, strategic group mapping, proposed and ranked five strategies, and assessed sustainability using SusAF’s 5 Dimensions.
-📄 [Prototype & Testing Report] Developed three selected solutions, built Figma prototypes, and refined them through alpha and beta testing.
+📄 [Prototype & Testing Report](docs/MAN3154_Final_Assignment.pdf) Developed three selected solutions, built Figma prototypes, and refined them through alpha and beta testing.
 
 Analyzed ZUS Coffee and its competitors through PESTLE analysis and a strategic group map. Proposed and ranked five business strategies using Weighted Criteria Analysis, then developed three key solutions: Permanent In-App Minigames, ZUS GroupOrder+, and an AI-Powered Personalised Drink Recommender. Prototypes were built in Figma, tested through alpha and beta stages, and refined based on user feedback, with sustainability assessed using SusAF’s 5 Dimensions.
 
