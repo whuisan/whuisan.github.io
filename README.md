@@ -1,4 +1,4 @@
-# Second Year Data Analytics Student
+# Third Year Data Analytics Student
 
 #### Technical Skills: Microsoft Excel, SQL, Power BI, Tabelau, Python
 
