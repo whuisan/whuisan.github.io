@@ -43,7 +43,8 @@ CGPA: 3.94
 
 ### **Statistical Analysis of Sleep Health and Lifestyle Using SAS Enterprise Guide**
 
-📄 [View Full Report](docs/Group_Assignment_Statistics.pdf)
+📄 [View Full Report](docs/Group_Assignment_Statistics.pdf)  
+🔗 [Dataset Used](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
 
 > Conducted **statistical analysis** on a Kaggle dataset of 374 adults using **SAS Enterprise Guide** to examine the impact of lifestyle and health factors on sleep. The project applied descriptive statistics, hypothesis testing (one-sample, two-sample, ANOVA), and multiple linear regression to develop a predictive model for sleep duration.
 
@@ -66,7 +67,7 @@ CGPA: 3.94
 ### **ZUS Coffee: Strategic Analysis and Digital Solutions**
 
 🔗 [View Figma Prototype](https://www.figma.com/proto/CNXTNvdDey5dBqM3OBXpIA/ZUS-Coffee-Mobile-App?node-id=17-4340&t=0dxBPdVAMH6PXqhk-1)  
-📄 [Analysis & Strategy Report](docs/MAN3154_Mid-Term_Assignment.pdf)
+📄 [Analysis & Strategy Report](docs/MAN3154_Mid-Term_Assignment.pdf)  
 📄 [Prototype & Testing Report](docs/MAN3154_Final_Assignment.pdf)
 
 > Analyzed ZUS Coffee and its competitors through **PESTLE analysis and a strategic group map**. Proposed and ranked five business strategies using Weighted Criteria Analysis, then developed three key solutions: Permanent In-App Minigames, ZUS GroupOrder+, and an AI-Powered Personalised Drink Recommender. **Prototypes were built in Figma**, tested through alpha and beta stages, and refined based on user feedback, with sustainability assessed using SusAF’s 5 Dimensions.
