@@ -7,9 +7,10 @@
 ### Sunway University, Selangor  
 **Bachelor of Information Systems (Data Analytics)**  
 September 2023 – Present _(Expected Graduation: September 2026)_  
-CGPA: 3.90   
-🏅 Dean’s List 2024–2025 | Jeffrey Cheah ACE Scholarship Recipient  
-
+CGPA: 3.96  
+🏅 Dean’s List for four consecutive semesters  
+🏅 Jeffrey Cheah ACE Scholarship Recipient    
+🏅 1st Runner-Up in the Information System Analysis and Design Project Pitching Competition 2025
 
 ### Sunway College, Selangor  
 **Foundation in Arts**  
