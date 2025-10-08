@@ -52,7 +52,7 @@ CGPA: 3.94
 > **Skills gained:** SAS programming, data cleaning, statistical inference, regression modeling, and interpretation of health-related insights.
 
 
-### **Information System Analysis & Design – Sunway iZone Enrolment System**
+### **Information System Analysis & Design – Smart Waitlist System for Enhancing iZone Subject Enrolment**    
 
 🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)    
 📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)    
