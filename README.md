@@ -1,6 +1,6 @@
 # Third Year Data Analytics Student
 
-#### Technical Skills: Microsoft Excel, SQL, Power BI, Tabelau, Python
+#### Technical Skills: Microsoft Excel, SQL, Power BI, Tabelau, Python, SAS Enterprise Guide, SAS Enterprise Miner, Figma
 
 ## Education
 
