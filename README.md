@@ -55,6 +55,8 @@ CGPA: 3.94
 ### **Information System Analysis & Design – Smart Waitlist System for Enhancing iZone Subject Enrolment**    
 
 🔗 [View Figma Prototype](https://www.figma.com/proto/AlRvWYK8g5C3TqoSxjjj4A/iZone-Waitlist-System--Initial-Prototype-?node-id=419-388&p=f&t=OVNLSf8JjvlHRSFs-1&scaling=scale-down&content-scaling=fixed&page-id=10%3A3&starting-point-node-id=502%3A246&show-proto-sidebar=1)    
+🔗 [System Demo Video](https://drive.google.com/file/d/1JxUNK9kwfkc1nDep_UBxwQ4CjId7J5_g/view?usp=sharing)     
+📄 [Poster]
 📄 [System Requirement Document (SRD)](docs/System_Requirement_Document_(SRD).pdf)    
 📄 [System Design Specification (SDS)](docs/System_Design_Specification_(SDS).pdf)    
 📄 [System Test Document (STD)](docs/System_Test_Document_(STD).pdf)    
